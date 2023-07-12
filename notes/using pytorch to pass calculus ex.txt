@@ -1,0 +1,8 @@
+- using pytorch to pass calculus exam/ complete calculus homework
+- intro
+	- difficult problem, cant remember formula, ....
+	- solving it with pytorch, ...
+- explaining how pytorch does it (autograd, backprop stuff)
+- how this is used in deep learning
+- some useful documentation/ commands.
+- call back to my linkedin, github and blog
